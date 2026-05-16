@@ -16,62 +16,41 @@ CV Analyzer Pro takes a resume (PDF, DOCX, or TXT), matches it against a job des
 
 ---
 
-## Screenshots
 
-### Dashboard
-![Dashboard](screenshots/DASHBOARD.png)
 
-### Selecting a Job Role
-![Select Job](screenshots/S01_SELECT_JOB_.png)
-
-### Job Loaded Successfully
-![Job Loaded](screenshots/S01_DIALOG_SHOWING_SUCCESS_.png)
-
-### Selecting an Algorithm
-![Algorithm Options](screenshots/OPTIONS_FOR_SELECTING_ALGOS_.png)
-
-### Warning: Load Job Before Analyzing
-![Warning Load Job](screenshots/WARNING_DIALOG_ASKING_FOR_LOAD_JOB_B4_ANALYZING_CVs_001.png)
-
-### Warning: Select CV for Single Analysis
-![Warning CV](screenshots/DIALOG_ASKING_TO_ENTER_CV_FOR_SINGLE_ANALYSIS.png)
-
-### Batch Processing in Progress (21%)
-![Batch Processing](screenshots/s1.png)
 
 ---
 
 ### Single CV — Keywords Tab
 Shows each keyword as FOUND or MISSING with mandatory/optional tagging.
 
-![Keywords Single](screenshots/KEYWORDS_TAB_FOR_SINGLE_CV_ANALYSIS_.png)
 
 ### Single CV — Analytics Tab
 Side-by-side bar charts comparing execution time (ms) and character comparisons across all three algorithms.
 
-![Analytics Single](screenshots/ANALYTICS_TAB_SINGLE_.png)
+
 
 ---
 
 ### Batch — Results Tab (Brute Force)
 Aggregate stats: total candidates, average scores, candidate distribution, and top 5 ranked CVs.
 
-![Batch Results BF](screenshots/BF_RESULTS_TAB_BATCH_.png)
+
 
 ### Batch — Results Tab (Rabin-Karp)
 Same summary view run with the Rabin-Karp algorithm.
 
-![Batch Results RK](screenshots/RK_RESULTS_TAB_BATCH_.png)
+
 
 ### Batch — Keywords Tab
 Corpus-wide skill frequency across all 735 CVs (e.g. Python: 714/735 = 97%).
 
-![Keywords Batch](screenshots/RK_KEYWORDS_TAB_BATCH.png)
+
 
 ### Batch — Analytics Tab
 Performance comparison table + execution time and comparison bar charts across all three algorithms.
 
-![Analytics Batch](screenshots/ANALYTICS_TAB_BATCH_SHOWING_OVERALL_RESULTS_.png)
+
 
 ---
 
@@ -144,31 +123,6 @@ Overall Score = (Mandatory Score × 0.80) + (Optional Score × 0.20)
 
 ---
 
-## Project Structure
-
-```
-CV_Analyzer/
-├── src/
-│   ├── main.py              # Entry point
-│   ├── main_window.py       # GUI controller (CVAnalyzerGUI)
-│   ├── analyzer.py          # Core analysis engine
-│   ├── brute_force.py       # Brute Force implementation
-│   ├── rabin_karp.py        # Rabin-Karp implementation
-│   └── kmp.py               # KMP implementation
-│   └── file_reader.py       # PDF/DOCX/TXT parser
-├── job_descriptions/
-│   ├── data_scientist.txt
-│   ├── ai_ml_engineer.txt
-│   ├── computer_scientist.txt
-│   └── data_analyst.txt
-├── assets/
-│   └── FLOWCHART-Page-1.jpg
-├── screenshots/
-│   └── *.png
-└── README.md
-```
-
----
 
 ## How to Run
 
@@ -184,15 +138,6 @@ Place CVs you want to batch-analyze in a `data/cvs/` folder in the project root.
 
 ---
 
-## Key Findings
-
-- **KMP is the best choice for production** — 3.7× faster than Rabin-Karp and 1.5× faster than Brute Force on 735 CVs
-- **Rabin-Karp paradox** — fewest character comparisons (755 avg) but slowest runtime due to hashing overhead
-- **Brute Force** remains a solid baseline for small datasets and validation
-- All three algorithms produced identical keyword match results (100% accuracy)
-- Out of 735 CVs screened for Data Scientist: 82 Excellent (11.2%), 245 Good (33.3%), 217 Fair (29.5%), 191 Poor (26%)
-
----
 
 ## Limitations
 
@@ -205,6 +150,6 @@ Place CVs you want to batch-analyze in a `data/cvs/` folder in the project root.
 
 ## Submitted By
 
-**Wajeeha Khalid** · Student ID: 23i-2610 · Section: BDS-5A  
+**Wajeeha Khalid** · Student ID: 23i-2610
 FAST National University of Computer and Emerging Sciences  
-Course: Algorithms
+
