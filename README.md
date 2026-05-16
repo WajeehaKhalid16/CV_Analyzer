@@ -2,7 +2,7 @@
 
 > A desktop application that automates resume screening using classical string-matching algorithms — compare Brute Force, Rabin-Karp, and KMP in real time across single CVs or batch processing 700+ resumes.
 
-Built with **Python** and **PyQt5** for a university Algorithms course (FAST-NUCES, BDS-5A).
+Built with **Python** and **PyQt5** for a university Algorithms course.
 
 ---
 
