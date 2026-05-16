@@ -1,0 +1,61 @@
+JOB TITLE: Computer Scientist (Research & Development)
+
+COMPANY: Advanced Computing Research Institute
+
+JOB DESCRIPTION:
+We are seeking a Computer Scientist to conduct research and develop innovative solutions in areas such as algorithms, artificial intelligence, systems architecture, and computational theory. You will work on challenging problems and contribute to cutting-edge technology.
+
+MANDATORY SKILLS (Must Have):
+- Python
+- Algorithms
+- Data Structures
+- Computer Science Fundamentals
+- Problem Solving
+
+OPTIONAL SKILLS (Nice to Have):
+- C++
+- Java
+- Machine Learning
+- Artificial Intelligence
+- Distributed Systems
+- Computer Networks
+- Operating Systems
+- Database Systems
+- Software Engineering
+- Cloud Computing
+- Parallel Computing
+- Algorithm Design
+- Complexity Theory
+- Graph Theory
+- Mathematical Modeling
+- Research Methodology
+- Git
+- Linux
+- Docker
+- Kubernetes
+- SQL
+- NoSQL
+- System Design
+- High Performance Computing
+- Cryptography
+- Compiler Design
+- Natural Language Processing
+- Computer Vision
+- Optimization
+
+RESPONSIBILITIES:
+- Conduct research in computer science domains
+- Design and implement efficient algorithms
+- Develop prototypes and proof-of-concepts
+- Publish research papers in conferences and journals
+- Collaborate with interdisciplinary teams
+- Analyze computational complexity of problems
+- Optimize system performance
+- Mentor junior researchers and interns
+
+QUALIFICATIONS:
+- Bachelor's in Computer Science or related field
+- Strong foundation in algorithms and data structures
+- Published research papers (preferred)
+- Strong mathematical and analytical skills
+- Experience with multiple programming languages

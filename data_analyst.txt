@@ -1,0 +1,57 @@
+JOB TITLE: Data Analyst
+
+COMPANY: Business Intelligence Corp.
+
+JOB DESCRIPTION:
+We are looking for a detail-oriented Data Analyst to transform data into actionable business insights. You will work with various stakeholders to understand business requirements and deliver data-driven recommendations.
+
+MANDATORY SKILLS (Must Have):
+- SQL
+- Excel
+- Data Visualization
+- Python
+- Statistics
+
+OPTIONAL SKILLS (Nice to Have):
+- Tableau
+- Power BI
+- Pandas
+- NumPy
+- R Programming
+- Google Analytics
+- Data Cleaning
+- ETL
+- MySQL
+- PostgreSQL
+- MongoDB
+- Jupyter
+- Data Modeling
+- Business Intelligence
+- Dashboard Creation
+- Statistical Analysis
+- Data Mining
+- Reporting
+- Microsoft Office
+- Looker
+- Matplotlib
+- Seaborn
+- Git
+- Machine Learning
+- A/B Testing
+- Google Sheets
+
+RESPONSIBILITIES:
+- Extract and analyze data from multiple sources
+- Create reports and dashboards for stakeholders
+- Identify trends and patterns in datasets
+- Clean and prepare data for analysis
+- Collaborate with business teams to understand requirements
+- Present findings in clear and actionable formats
+- Monitor key performance indicators (KPIs)
+
+QUALIFICATIONS:
+- Bachelor's degree in Business, Statistics, Economics, Computer Science, or related field
+
+- Strong attention to detail
+- Excellent communication skills
+- Ability to translate complex data into business insights

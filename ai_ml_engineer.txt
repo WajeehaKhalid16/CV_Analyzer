@@ -1,0 +1,63 @@
+JOB TITLE: AI/ML Engineer
+
+COMPANY: Artificial Intelligence Labs
+
+JOB DESCRIPTION:
+We are seeking an experienced AI/ML Engineer to design, develop, and deploy artificial intelligence and machine learning solutions. You will work on cutting-edge projects involving deep learning, NLP, computer vision, and more.
+
+MANDATORY SKILLS (Must Have):
+- Python
+- Machine Learning
+- Deep Learning
+- TensorFlow
+- PyTorch
+
+OPTIONAL SKILLS (Nice to Have):
+- Neural Networks
+- Computer Vision
+- Natural Language Processing
+- Keras
+- Scikit-learn
+- OpenCV
+- NLP
+- Transformers
+- BERT
+- GPT
+- CNN
+- RNN
+- LSTM
+- GANs
+- Reinforcement Learning
+- Model Deployment
+- Docker
+- Kubernetes
+- MLOps
+- AWS
+- Azure
+- GCP
+- Git
+- GitHub
+- FastAPI
+- Flask
+- REST API
+- Pandas
+- NumPy
+- CUDA
+- GPU Programming
+- Model Optimization
+- Hugging Face
+
+RESPONSIBILITIES:
+- Design and implement machine learning models
+- Develop deep learning architectures for various tasks
+- Train and optimize neural networks
+- Deploy ML models to production environments
+- Work on NLP and computer vision projects
+- Conduct research on latest AI techniques
+- Optimize model performance and efficiency
+- Collaborate with data scientists and software engineers
+
+QUALIFICATIONS:
+- Bachelor's or Master's degree in Computer Science, AI, Machine Learning, or related field
+- Strong understanding of deep learning architectures
+- Experience with cloud platforms and model deployment

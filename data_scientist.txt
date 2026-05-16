@@ -1,0 +1,57 @@
+JOB TITLE: Data Scientist
+
+COMPANY: Tech Innovations Inc.
+
+JOB DESCRIPTION:
+We are seeking a talented Data Scientist to join our analytics team. The ideal candidate will have strong programming skills, experience with machine learning algorithms, and the ability to derive insights from complex datasets.
+
+MANDATORY SKILLS (Must Have):
+- Python
+- Machine Learning
+- SQL
+- Statistics
+- Data Analysis
+
+OPTIONAL SKILLS (Nice to Have):
+- TensorFlow
+- PyTorch
+- Pandas
+- NumPy
+- Scikit-learn
+- R Programming
+- Deep Learning
+- Data Visualization
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Apache Spark
+- Tableau
+- Power BI
+- Natural Language Processing
+- Computer Vision
+- Big Data
+- Hadoop
+- A/B Testing
+- Predictive Modeling
+- Feature Engineering
+- Time Series Analysis
+- Statistical Modeling
+- ETL
+- Data Mining
+- Excel
+
+RESPONSIBILITIES:
+- Develop and deploy machine learning models
+- Analyze large and complex datasets
+- Create data visualizations and dashboards
+- Collaborate with engineering and product teams
+- Present findings and insights to stakeholders
+- Build predictive models for business problems
+- Optimize model performance
+
+QUALIFICATIONS:
+- Bachelor's in Computer Science, Statistics, Mathematics, or related field
+
+- Strong analytical and problem-solving skills
+- Experience with cloud platforms (AWS, Azure, or GCP)
+- Published research or Kaggle competitions (preferred)
