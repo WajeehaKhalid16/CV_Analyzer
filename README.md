@@ -16,11 +16,6 @@ CV Analyzer Pro takes a resume (PDF, DOCX, or TXT), matches it against a job des
 
 ---
 
-
-
-
----
-
 ### Single CV — Keywords Tab
 Shows each keyword as FOUND or MISSING with mandatory/optional tagging.
 
@@ -51,29 +46,7 @@ Corpus-wide skill frequency across all 735 CVs (e.g. Python: 714/735 = 97%).
 Performance comparison table + execution time and comparison bar charts across all three algorithms.
 
 
-
----
-
-### Candidate Ranking — Top (Excellent)
-![Ranking Top](screenshots/OVERALL_RANKING_.png)
-
-### Candidate Ranking — Good Tier (Around Rank 100)
-![Ranking Good](screenshots/OVERALLRANKING_6.png)
-
-### Candidate Ranking — Fair Tier (Around Rank 468)
-![Ranking Fair](screenshots/OVERALLL_RANKING_7_.png)
-
-### Candidate Ranking — Poor Tier (Bottom)
-![Ranking Poor](screenshots/OVERALL_RANKING_8_.png)
-
-### Candidate Ranking — Bottom of List (Rank 735)
-![Ranking Bottom](screenshots/OVERALL_RANKING_5.png)
-
----
-
 ## System Flowchart
-
-![Flowchart](assets/FLOWCHART-Page-1.jpg)
 
 The system follows a structured validation flow:
 1. Load a job description
